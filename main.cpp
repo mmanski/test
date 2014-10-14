@@ -8,9 +8,9 @@ using namespace std;
 
 int main()
 {
-    string ciag;
-    cout<<"Wprowadz ciag znakow:"<<endl;
-    getline(cin, ciag);
-    cout<<ciag.size()<<" "<<ciag;
+    string series;
+    cout<<"Wprowadz series znakow:"<<endl;
+    getline(cin, series);
+    cout<<series.size()<<" "<<series;
     return 0;
 }
